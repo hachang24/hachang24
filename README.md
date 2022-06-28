@@ -10,8 +10,6 @@
 
 - ⚡ Fun fact **I'm K-pop fangirl**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hachang24&show_icons=true&locale=en&layout=compact" alt="hachang24" /></p>
-
 <div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,5 +23,6 @@
 <p>&nbsp;
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=hachang24&show_icons=true&locale=en" alt="hachang24" /></p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hachang24&show_icons=true&locale=en&layout=compact" alt="hachang24" /></p>
 
 
