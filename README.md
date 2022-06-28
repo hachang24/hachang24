@@ -19,7 +19,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hachang24&show_icons=true&locale=en&layout=compact" alt="hachang24" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=hachang24&show_icons=true&locale=en" alt="hachang24" /></p>
-
+<p>&nbsp;
 <img align="left" alt="Jaehyun" width="320" src="https://i.pinimg.com/564x/72/f9/ee/72f9ee9cb76c4b52b58d00e435893b7b.jpg">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=hachang24&show_icons=true&locale=en" alt="hachang24" />
+</p>
+
+
 
