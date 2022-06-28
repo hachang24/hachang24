@@ -19,7 +19,7 @@
 <a href="https://discord.gg/#7034" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#7034" height="30" width="40" /></a>
 </p>
 
-<img align="left" alt="Jaehyun" width="290" src="https://i.pinimg.com/564x/72/f9/ee/72f9ee9cb76c4b52b58d00e435893b7b.jpg" alt="hachang24">
+<img align="left" alt="Jaehyun" width="290" src="https://i.pinimg.com/564x/56/73/4c/56734c7e4a577a5374a69593cfef30b8.jpg" alt="hachang24">
 </div>
 
 <p>&nbsp;
