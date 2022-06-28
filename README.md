@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ha Chang</h1>
 <h3 align="center">Learning Front-End...</h3>
 
-<img align="right" alt="Jaehyun" width="280" src="https://i.pinimg.com/564x/72/f9/ee/72f9ee9cb76c4b52b58d00e435893b7b.jpg">
+<img align="right" alt="Jaehyun" width="300" src="https://i.pinimg.com/564x/72/f9/ee/72f9ee9cb76c4b52b58d00e435893b7b.jpg">
 
 - 🌱 I’m currently learning **Front-End**
 
