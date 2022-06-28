@@ -6,6 +6,8 @@
 
 - 🌱 I’m currently learning **Front-End**
 
+- 👩‍💻 Majors in Univesity **Software Engineering**
+
 - 📫 How to reach me **hthhuyntrang@gmail.com**
 
 - ⚡ Fun fact **I'm K-pop fangirl**
