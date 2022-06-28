@@ -22,6 +22,6 @@
 <p>&nbsp;
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=hachang24&show_icons=true&locale=en" alt="hachang24" /></p>
 
-<img align="left" alt="Jaehyun" width="270" src="https://i.pinimg.com/564x/72/f9/ee/72f9ee9cb76c4b52b58d00e435893b7b.jpg" alt="hachang24">
+<img align="left" alt="Jaehyun" width="290" src="https://i.pinimg.com/564x/72/f9/ee/72f9ee9cb76c4b52b58d00e435893b7b.jpg" alt="hachang24">
 
 
